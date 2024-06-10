@@ -18,3 +18,5 @@ cd examples
 make ..
 ./multisine_acquisition <robot_arm_ip>
 ```
+
+NOTE: make sure to activate FCI mode before running this code in the robot arm.  
