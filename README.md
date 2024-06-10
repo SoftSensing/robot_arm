@@ -6,7 +6,6 @@ After installing libfranka, clone this repo directly by running:
 ```
 git clone https://github.com/SoftSensing/robot_arm.git
 cd robot_arm
-pip install -r requirements.txt
 ```
 
 Alternatibely, one can directly download the `multisine_acquisition.cpp` in the directory `/path/to/libfranka/examples` of the libfranka installation.
